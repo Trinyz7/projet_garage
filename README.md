@@ -6,7 +6,7 @@
    - [Anthony Nguyen](https://github.com/Trinyz7) 
    - [Johan Gourmand](https://github.com/joepok77) 
    - [Shaman Viellet](https://github.com/ShamanK93)
-   - [Amine](https://github.com/) 
+   - [Amine](https://github.com/Amine9200) 
 
 # Garage_V.Parrot
 - Vincent Parrot, spécialiste de la réparation automobile, a ouvert son propre garage à Toulouse en 2021. Depuis, il propose une vaste gamme de services, allant de la réparation de la carrosserie et de la mécanique des véhicules à leur entretien régulier, afin de garantir leur performance et leur sécurité. Le Garage V. Parrot offre également la vente de voitures d'occasion, une activité qui lui permet de diversifier ses sources de revenus.
@@ -59,5 +59,3 @@
 # Annexes
 
    - Lien du canva :
-
-# Structure du site web
