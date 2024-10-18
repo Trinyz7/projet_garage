@@ -11,31 +11,50 @@ Vincent Parrot, spécialiste de la réparation automobile, a ouvert son propre g
 
 Pour Vincent, son atelier est bien plus qu'un simple lieu de travail : c’est un espace de confiance où chaque véhicule doit être traité avec le plus grand soin. Bien que son équipe fournisse un service personnalisé et de qualité à chaque client, Vincent est conscient de l'importance de renforcer sa présence en ligne pour se démarquer de la concurrence et asseoir sa notoriété.
 
-# Fonctionnalités principales
-- Utilisateur Administrateur :
-Gestion des services proposés par le garage.
-Gestion des horaires d'ouverture.
- - Utilisateur Employé :
-Ajout de véhicules d'occasion (avec photos, description, informations techniques).
-- Utilisateur Visiteur :
-Consultation des services et horaires d'ouverture.
-Consultation des véhicules d'occasion avec détails.
+#Fonctionnalités principales
 
-Gestion des voitures d'occasion : ajout, affichage et suppression de véhicules d'occasion.
-Affichage des véhicules : chaque voiture est affichée avec ses caractéristiques (marque, modèle, prix, kilométrage, etc.) et ses images dans un carrousel.
-Page d'administration : accès restreint pour ajouter et supprimer des véhicules
-Présenter les services : l'administrateur a la posibilité de modifier les informations directements à partir de son espace admin.
-Définir les horaires d'ouvertures : l'administrateur a la posibilité de préciser quand le garage est ouvert, à partir de son espace.
-Création de compte : possibilité de créer un compte employé depuis la page admin et lui attribuer un rôle.
-# Technologie utilisé
-- Backend :
-Langage : PHP 8.1
-Framework : Symfony CLI 7
-Composer
-EasyAdmin4
-MySQL
-- Frontend :
-Langages : HTML5, CSS3, Bootstrap, JavaScript
+- Utilisateur Administrateur :
+
+- Gestion des services proposés par le garage.
+- 
+- Configuration des horaires d'ouverture.
+- 
+- Utilisateur Employé :
+
+- Ajout de véhicules d'occasion, incluant photos, descriptions et informations techniques.
+- Utilisateur Visiteur :
+
+- Consultation des services disponibles et des horaires d'ouverture.
+- 
+- Visualisation des véhicules d'occasion avec tous les détails associés.
+
+
+- Gestion des véhicules d'occasion : possibilité d'ajouter, de consulter et de supprimer des voitures d'occasion.
+
+- Affichage des véhicules : chaque véhicule est présenté avec ses détails (marque, modèle, prix, kilométrage, etc.) et ses photos, affichées dans un carrousel.
+
+- Page d'administration : accès sécurisé pour gérer l'ajout et la suppression des véhicules d'occasion.
+
+- Gestion des services : l'administrateur peut modifier les informations sur les services directement depuis son espace d'administration.
+
+- Définition des horaires d'ouverture : l'administrateur peut définir les horaires d'ouverture du garage via l'interface d'administration.
+
+- Gestion des comptes : possibilité de créer des comptes employés depuis l'interface admin et de leur attribuer des rôles spécifiques.
+
+- Technologies utilisées
+
+#Backend :
+
+- Langage : PHP 8.1
+- Framework : Symfony CLI 7
+- Gestionnaire de dépendances : Composer
+- Interface d'administration : EasyAdmin 4
+- Base de données : MySQL
+  
+#Frontend :
+
+- Langages : HTML5, CSS3, JavaScript
+- Framework CSS : Bootstrap
 
 # Gestion des branches
 git clone https://github.com/Trinyz7/projet_garage
