@@ -52,10 +52,11 @@ Pour Vincent, son atelier est bien plus qu'un simple lieu de travail : c’est u
 - php bin/console doctrine:database:create
 - php bin/console doctrine:migrations:migrate
 - Démarrer le serveur symfony :
-
-symfony server:start -d
+- symfony server:start -d
+  
 # Annexes
-Lien du canva :
+
+   - Lien du canva :
 
 # Structure du site web
 Sur la page d'accueil de notre site de e-commerce, nous avons une barre de navigation en haut de la page. Cette barre de navigation comporte des catégories importantes telles que "Tendance", "Lifestyle", "Découvrir", etc. Elle contient également deux boutons pour permettre aux utilisateurs de se connecter.
