@@ -1,10 +1,10 @@
 # projet_garage
 Collaborateurs
-Anthony Nguyen
-Johan Gourmand 
-Esteban Lory
-Amine
-Shaman Viellet 
+Anthony Nguyen,
+Johan Gourmand,
+Esteban Lory,
+Amine,
+Shaman Viellet,
 # garage-V.Parrot
 Vincent Parrot,travail dans la réparation automobile et a ouvert son propre garage à Toulouse en 2021.
 
@@ -15,12 +15,10 @@ Bien qu'il fournisse grâce à ses employés un service de qualité et personnal
 
 # Fonctionnalités principales
 Gestion des voitures d'occasion : ajout, affichage et suppression de véhicules d'occasion.
-Téléchargement d'images : possibilité d'ajouter plusieurs images pour chaque voiture.
 Affichage des véhicules : chaque voiture est affichée avec ses caractéristiques (marque, modèle, prix, kilométrage, etc.) et ses images dans un carrousel.
 Page d'administration : accès restreint pour ajouter et supprimer des véhicules
 Présenter les services : l'administrateur a la posibilité de modifier les informations directements à partir de son espace admin.
 Définir les horaires d'ouvertures : l'administrateur a la posibilité de préciser quand le garage est ouvert, à partir de son espace.
-Receuillir les témoignages clients : les avis seront modérés par un employé pour éviter tout contenu inapproprié ou offensant.
 Création de compte : possibilité de créer un compte employé depuis la page admin et lui attribuer un rôle.
 # Technologie utilisé
 PHP >= 8.1
@@ -30,7 +28,6 @@ Composer
 Symfony CLI
 EasyAdmin4
 MySQL
-MongoDBst une plateforme spécialisé dans la revente de sneakers proposant une sélection soigneusement choisie de sneakers de qualité, nous nous engageons à vous offrir une expérience d'achat fluide et agréable. Explorez les différentes catégories et laissez-vous séduire par nos offres exclusives et nos promotions attractives.
 
 # Gestion des branches
 git clone https://github.com/jordyvuong/projet-garage.git
@@ -51,7 +48,7 @@ symfony server:start -d
 # Annexes
 Lien du canva :
 
-Structure du site web
+# Structure du site web
 Sur la page d'accueil de notre site de e-commerce, nous avons une barre de navigation en haut de la page. Cette barre de navigation comporte des catégories importantes telles que "Tendance", "Lifestyle", "Découvrir", etc. Elle contient également deux boutons pour permettre aux utilisateurs de se connecter.
 
 Nous avons une "Hero Banner", qui affiche la devise de notre site. En plus de la devise, elle présente des carrousels mettant en avant les sneakers tendances, offrant ainsi un aperçu visuel des produits disponibles.
