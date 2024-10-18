@@ -2,7 +2,7 @@
  Collaborateurs
 - [amine](https://github.com/) 
 - [Johan Gourmand](https://github.com/joepok77) 
-- [anthony Nguyen](https://github.com/Triniz7) 
+- [Anthony Nguyen](https://github.com/Trinyz7) 
 - [Esteban Lory](https://github.com/) 
 - [Shaman Viellet](https://github.com/ShamanK93) 
 
