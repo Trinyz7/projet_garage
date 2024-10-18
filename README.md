@@ -7,12 +7,9 @@
 - [Shaman Viellet](https://github.com/ShamanK93) 
 
 # garage-V.Parrot
-Vincent Parrot,travail dans la réparation automobile et a ouvert son propre garage à Toulouse en 2021.
+Vincent Parrot, spécialiste de la réparation automobile, a ouvert son propre garage à Toulouse en 2021. Depuis, il propose une vaste gamme de services, allant de la réparation de la carrosserie et de la mécanique des véhicules à leur entretien régulier, afin de garantir leur performance et leur sécurité. Le Garage V. Parrot offre également la vente de voitures d'occasion, une activité qui lui permet de diversifier ses sources de revenus.
 
-Depuis 3 ans, il propose une large gamme de services: réparation de la carrosserie et de la mécanique des voitures ainsi que leur entretien régulier pour garantir leur performance et leur sécurité. De plus, le Garage V. Parrot met en vente des véhicules d'occasion afin d'accroître son chiffre d'affaires.
-Vincent Parrot considère son atelier comme un véritable lieu de confiance pour ses clients et leurs voitures doivent, selon lui, à tout prix être entre de bonnes mains.
-
-Bien qu'il fournisse grâce à ses employés un service de qualité et personnalisé à chaque client, Vincent Parrot reconnaît qu'il doit être visible sur internet s'il veut se faire définitivement une place parmi la concurrence.
+Pour Vincent, son atelier est bien plus qu'un simple lieu de travail : c’est un espace de confiance où chaque véhicule doit être traité avec le plus grand soin. Bien que son équipe fournisse un service personnalisé et de qualité à chaque client, Vincent est conscient de l'importance de renforcer sa présence en ligne pour se démarquer de la concurrence et asseoir sa notoriété.
 
 # Fonctionnalités principales
 - Utilisateur Administrateur :
@@ -20,11 +17,9 @@ Gestion des services proposés par le garage.
 Gestion des horaires d'ouverture.
  - Utilisateur Employé :
 Ajout de véhicules d'occasion (avec photos, description, informations techniques).
-Modération des témoignages clients.
 - Utilisateur Visiteur :
 Consultation des services et horaires d'ouverture.
 Consultation des véhicules d'occasion avec détails.
-Ajout d'un témoignage (nom, commentaire, note).
 
 Gestion des voitures d'occasion : ajout, affichage et suppression de véhicules d'occasion.
 Affichage des véhicules : chaque voiture est affichée avec ses caractéristiques (marque, modèle, prix, kilométrage, etc.) et ses images dans un carrousel.
@@ -35,7 +30,7 @@ Création de compte : possibilité de créer un compte employé depuis la page a
 # Technologie utilisé
 - Backend :
 Langage : PHP 8.1
-Framework : Symfony CLI
+Framework : Symfony CLI 7
 Composer
 EasyAdmin4
 MySQL
