@@ -1,15 +1,16 @@
 # projet_garage
- Collaborateurs
-- [Amine](https://github.com/) 
-- [Johan Gourmand](https://github.com/joepok77) 
-- [Anthony Nguyen](https://github.com/Trinyz7) 
-- [Esteban Lory](https://github.com/) 
-- [Shaman Viellet](https://github.com/ShamanK93) 
+
+- Collaborateurs
+   - [Amine](https://github.com/) 
+   - [Johan Gourmand](https://github.com/joepok77) 
+   - [Anthony Nguyen](https://github.com/Trinyz7) 
+   - [Esteban Lory](https://github.com/) 
+   - [Shaman Viellet](https://github.com/ShamanK93) 
 
 # Garage_V.Parrot
-Vincent Parrot, spécialiste de la réparation automobile, a ouvert son propre garage à Toulouse en 2021. Depuis, il propose une vaste gamme de services, allant de la réparation de la carrosserie et de la mécanique des véhicules à leur entretien régulier, afin de garantir leur performance et leur sécurité. Le Garage V. Parrot offre également la vente de voitures d'occasion, une activité qui lui permet de diversifier ses sources de revenus.
+- Vincent Parrot, spécialiste de la réparation automobile, a ouvert son propre garage à Toulouse en 2021. Depuis, il propose une vaste gamme de services, allant de la réparation de la carrosserie et de la mécanique des véhicules à leur entretien régulier, afin de garantir leur performance et leur sécurité. Le Garage V. Parrot offre également la vente de voitures d'occasion, une activité qui lui permet de diversifier ses sources de revenus.
 
-Pour Vincent, son atelier est bien plus qu'un simple lieu de travail : c’est un espace de confiance où chaque véhicule doit être traité avec le plus grand soin. Bien que son équipe fournisse un service personnalisé et de qualité à chaque client, Vincent est conscient de l'importance de renforcer sa présence en ligne pour se démarquer de la concurrence et asseoir sa notoriété.
+- Pour Vincent, son atelier est bien plus qu'un simple lieu de travail : c’est un espace de confiance où chaque véhicule doit être traité avec le plus grand soin. Bien que son équipe fournisse un service personnalisé et de qualité à chaque client, Vincent est conscient de l'importance de renforcer sa présence en ligne pour se démarquer de la concurrence et asseoir sa notoriété.
 
 # Backend :
 
