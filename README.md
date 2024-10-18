@@ -6,44 +6,12 @@
 - [Esteban Lory](https://github.com/) 
 - [Shaman Viellet](https://github.com/ShamanK93) 
 
-# garage-V.Parrot
+# Garage_V.Parrot
 Vincent Parrot, spécialiste de la réparation automobile, a ouvert son propre garage à Toulouse en 2021. Depuis, il propose une vaste gamme de services, allant de la réparation de la carrosserie et de la mécanique des véhicules à leur entretien régulier, afin de garantir leur performance et leur sécurité. Le Garage V. Parrot offre également la vente de voitures d'occasion, une activité qui lui permet de diversifier ses sources de revenus.
 
 Pour Vincent, son atelier est bien plus qu'un simple lieu de travail : c’est un espace de confiance où chaque véhicule doit être traité avec le plus grand soin. Bien que son équipe fournisse un service personnalisé et de qualité à chaque client, Vincent est conscient de l'importance de renforcer sa présence en ligne pour se démarquer de la concurrence et asseoir sa notoriété.
 
-#Fonctionnalités principales
-
-- Utilisateur Administrateur :
-
-- Gestion des services proposés par le garage.
-- 
-- Configuration des horaires d'ouverture.
-- 
-- Utilisateur Employé :
-
-- Ajout de véhicules d'occasion, incluant photos, descriptions et informations techniques.
-- Utilisateur Visiteur :
-
-- Consultation des services disponibles et des horaires d'ouverture.
-- 
-- Visualisation des véhicules d'occasion avec tous les détails associés.
-
-
-- Gestion des véhicules d'occasion : possibilité d'ajouter, de consulter et de supprimer des voitures d'occasion.
-
-- Affichage des véhicules : chaque véhicule est présenté avec ses détails (marque, modèle, prix, kilométrage, etc.) et ses photos, affichées dans un carrousel.
-
-- Page d'administration : accès sécurisé pour gérer l'ajout et la suppression des véhicules d'occasion.
-
-- Gestion des services : l'administrateur peut modifier les informations sur les services directement depuis son espace d'administration.
-
-- Définition des horaires d'ouverture : l'administrateur peut définir les horaires d'ouverture du garage via l'interface d'administration.
-
-- Gestion des comptes : possibilité de créer des comptes employés depuis l'interface admin et de leur attribuer des rôles spécifiques.
-
-- Technologies utilisées
-
-#Backend :
+# Backend :
 
 - Langage : PHP 8.1
 - Framework : Symfony CLI 7
@@ -51,7 +19,7 @@ Pour Vincent, son atelier est bien plus qu'un simple lieu de travail : c’est u
 - Interface d'administration : EasyAdmin 4
 - Base de données : MySQL
   
-#Frontend :
+# Frontend :
 
 - Langages : HTML5, CSS3, JavaScript
 - Framework CSS : Bootstrap
