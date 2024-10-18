@@ -26,19 +26,19 @@ Pour Vincent, son atelier est bien plus qu'un simple lieu de travail : c’est u
 
 # Fonctionnalités principales
 
-   - Utilisateur Administrateur :
+- Utilisateur Administrateur :
 
-- Gestion des services proposés par le garage.
-- Configuration des horaires d'ouverture.
+   - Gestion des services proposés par le garage.
+   - Configuration des horaires d'ouverture.
   
-   - Utilisateur Employé :
+- Utilisateur Employé :
 
-- Ajout de véhicules d'occasion, incluant photos, descriptions et informations techniques.
+   - Ajout de véhicules d'occasion, incluant photos, descriptions et informations techniques.
   
-   - Utilisateur Visiteur :
+- Utilisateur Visiteur :
 
-- Consultation des services disponibles et des horaires d'ouverture.
-- Visualisation des véhicules d'occasion avec tous les détails associés.
+   - Consultation des services disponibles et des horaires d'ouverture.
+   - Visualisation des véhicules d'occasion avec tous les détails associés.
 
 # Gestion des branches
 git clone https://github.com/Trinyz7/projet_garage
