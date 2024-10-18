@@ -1,10 +1,11 @@
 # projet_garage
-Collaborateurs
-Anthony Nguyen,
-Johan Gourmand,
-Esteban Lory,
-Amine,
-Shaman Viellet,
+# Collaborateurs
+- [amine](https://github.com/) 
+- [Johan Gourmand](https://github.com/joepok77) 
+- [anthony Nguyen](https://github.com/Triniz7) 
+- [Esteban Lory](https://github.com/) 
+- [Shaman Viellet](https://github.com/ShamanK93) 
+
 # garage-V.Parrot
 Vincent Parrot,travail dans la réparation automobile et a ouvert son propre garage à Toulouse en 2021.
 
