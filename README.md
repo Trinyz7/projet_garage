@@ -18,7 +18,6 @@ Bien qu'il fournisse grâce à ses employés un service de qualité et personnal
 - Utilisateur Administrateur :
 Gestion des services proposés par le garage.
 Gestion des horaires d'ouverture.
-Gestion des comptes des employés.
  - Utilisateur Employé :
 Ajout de véhicules d'occasion (avec photos, description, informations techniques).
 Modération des témoignages clients.
@@ -85,4 +84,3 @@ Design attirant : On a mis en place un design attirant et esthétique pour crée
 
 Contenu Pertinent : Le contenu de notre site, y compris le catalogue de produits sont clair et pertinent.
 
-Facilité d'Achat : Les visiteurs peuvent ajouter des articles à leur panier, passer à la caisse et finaliser leur commande en quelques étapes seulement.
