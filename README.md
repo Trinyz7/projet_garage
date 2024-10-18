@@ -61,19 +61,3 @@
    - Lien du canva :
 
 # Structure du site web
-Sur la page d'accueil de notre site de e-commerce, nous avons une barre de navigation en haut de la page. Cette barre de navigation comporte des catégories importantes telles que "Tendance", "Lifestyle", "Découvrir", etc. Elle contient également deux boutons pour permettre aux utilisateurs de se connecter.
-
-Nous avons une "Hero Banner", qui affiche la devise de notre site. En plus de la devise, elle présente des carrousels mettant en avant les sneakers tendances, offrant ainsi un aperçu visuel des produits disponibles.
-
-En descendant sur la page, les utilisateurs trouveront un catalogue d'articles. Ce catalogue présente une sélection de produits que les utilisateurs peuvent parcourir. Ils ont également la possibilité d'ajouter des articles à leur panier directement depuis cette section, ce qui simplifie le processus d'achat.
-
-Enfin, en bas de la page, nous avons un footer. Qui contient des informations sur notre entreprise, donnant aux visiteurs un aperçu de qui nous sommes et de ce que nous proposons. Il inclut également un lien intitulé "Rejoignez Sneakpeak". Ce lien redirige les utilisateurs vers une page de contact où ils peuvent entrer en contact avec nous pour toute question.
-
-
-# Documentation utilisateur fonctionnement du site
-Navigation Intuitive : La navigation sur notre site est simple et intuitive.
-
-Design attirant : On a mis en place un design attirant et esthétique pour créer une première impression positive et qui encourage les visiteurs à explorer davantage notre site.
-
-Contenu Pertinent : Le contenu de notre site, y compris le catalogue de produits sont clair et pertinent.
-
