@@ -14,6 +14,18 @@ Vincent Parrot considère son atelier comme un véritable lieu de confiance pour
 Bien qu'il fournisse grâce à ses employés un service de qualité et personnalisé à chaque client, Vincent Parrot reconnaît qu'il doit être visible sur internet s'il veut se faire définitivement une place parmi la concurrence.
 
 # Fonctionnalités principales
+# Utilisateur Administrateur :
+Gestion des services proposés par le garage.
+Gestion des horaires d'ouverture.
+Gestion des comptes des employés.
+# Utilisateur Employé :
+Ajout de véhicules d'occasion (avec photos, description, informations techniques).
+Modération des témoignages clients.
+# Utilisateur Visiteur :
+Consultation des services et horaires d'ouverture.
+Consultation des véhicules d'occasion avec détails.
+Ajout d'un témoignage (nom, commentaire, note).
+
 Gestion des voitures d'occasion : ajout, affichage et suppression de véhicules d'occasion.
 Affichage des véhicules : chaque voiture est affichée avec ses caractéristiques (marque, modèle, prix, kilométrage, etc.) et ses images dans un carrousel.
 Page d'administration : accès restreint pour ajouter et supprimer des véhicules
@@ -21,13 +33,14 @@ Présenter les services : l'administrateur a la posibilité de modifier les info
 Définir les horaires d'ouvertures : l'administrateur a la posibilité de préciser quand le garage est ouvert, à partir de son espace.
 Création de compte : possibilité de créer un compte employé depuis la page admin et lui attribuer un rôle.
 # Technologie utilisé
-PHP >= 8.1
-HTML, CSS3, Javascript
-Bootstrap
+# Backend :
+Langage : PHP 8.1
+Framework : Symfony CLI
 Composer
-Symfony CLI
 EasyAdmin4
 MySQL
+# Frontend :
+Langages : HTML5, CSS3, Bootstrap, JavaScript
 
 # Gestion des branches
 git clone https://github.com/jordyvuong/projet-garage.git
