@@ -1,6 +1,6 @@
 # projet_garage
  Collaborateurs
-- [amine](https://github.com/) 
+- [Amine](https://github.com/) 
 - [Johan Gourmand](https://github.com/joepok77) 
 - [Anthony Nguyen](https://github.com/Trinyz7) 
 - [Esteban Lory](https://github.com/) 
